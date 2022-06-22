@@ -1,0 +1,58 @@
+.card{
+    border-style: solid;
+    border-color: rgb(134, 122, 122);
+    width: 500px;
+    height: 100px;
+    margin: 50px;
+    margin-left: 25%;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px red;   
+    display: flex; 
+    align-items: center;
+    
+
+}
+.pasmovie{
+    border-style: solid;
+    border-color: rgb(148, 113, 115);
+    width: 500px;
+    margin: 50px;
+    margin-left: 25%;
+    padding: 50px;
+
+
+}
+.app{
+    background-color: rgb(107, 177, 27);
+    padding: 50px;
+    
+}
+.component{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.annonce{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 105px;
+    padding-top: 20px;
+    
+    flex-wrap: wrap;
+    
+    
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+}
+.backgr{
+    background-color: aqua;
+}
+.btn{
+    color: crimson;
+}
